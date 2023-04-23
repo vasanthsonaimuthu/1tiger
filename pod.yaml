@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: vasanthsonaimuthuu/k8image:latest
+          image: vasanthsonaimuthuu/tigerimage:latest
           imagePullPolicy: Always
